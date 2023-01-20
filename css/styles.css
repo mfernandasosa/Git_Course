@@ -1,0 +1,33 @@
+body
+{
+    color: darkred;
+    text-align: left;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cabecera 
+{
+    background: red;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+
+#container
+{
+    width: 70%;
+    padding: 1;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+
+}
+#container h1
+{
+    font-size: 20px;
+}
+
