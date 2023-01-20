@@ -30,4 +30,15 @@ body
 {
     font-size: 20px;
 }
+#post
+{
+    padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: darkred;
+    text-align: center;
+    padding-right: 0.5em;    
+}
 
