@@ -49,8 +49,8 @@ body
 }
 #footer
 {
-    background: #777;
-    color: darkred;
+    background: rgb(88, 87, 87);
+    color: rgb(255, 161, 250);
     text-align: center;
     padding-right: 0.5em;    
 }
