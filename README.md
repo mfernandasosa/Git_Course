@@ -12,3 +12,5 @@ Y como un amable recordatorio: **Este README.md es una prueba**.
 Sin embargo, puedes ver [un par de videos](https://shre.ink/1GsP/ "un par de videos") de mis proyectos iniciales de Android.
 
 > Estan en **YouTube** No es un virus, ni publicidad.
+
+Ya tengo mi [certificado](https://platzi.com/p/zoza.mariaf/curso/1557-git-github/diploma/detalle/ "certificado") **I´m so happy**.
