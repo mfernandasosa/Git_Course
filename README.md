@@ -14,3 +14,5 @@ Sin embargo, puedes ver [un par de videos](https://shre.ink/1GsP/ "un par de vid
 > Estan en **YouTube** No es un virus, ni publicidad.
 
 Ya tengo mi [certificado](https://platzi.com/p/zoza.mariaf/curso/1557-git-github/diploma/detalle/ "certificado") **I´m so happy**.
+
+See the result !! **https://mfernandasosa.github.io/Git_Course/blogpost.html**
